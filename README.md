@@ -20,3 +20,9 @@ Notebook Covers following
 - Convarience matrix calculation
 - Training linear regression using Sklearn 
 - Training logistic regresison using tensorflow
+
+## SVM 
+Notebook Covers following 
+- Loading dataset in csv format
+- Training SVM with Grid Search 
+- Model evaluation
