@@ -43,3 +43,20 @@ Notebook covers following
 - Data loader with Augmentation
 - Confusion metrics for evaluation
 
+## UefficientNet
+Notebook covers following 
+- Loading images from folder custom data loader
+- EfficientNet as Unet backbone 
+- Loss function IOU Dice
+- Custom callback for evalauting on test set while training 
+- Segmentation visualization 
+- evalaution 
+
+## Vae 
+Notebook covers following
+- Loading image from directory 
+- Custom Encoder and Decoder 
+- KL and mse loss
+- visualization 
+- evalaution 
+
