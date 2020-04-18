@@ -26,3 +26,20 @@ Notebook Covers following
 - Loading dataset in csv format
 - Training SVM with Grid Search 
 - Model evaluation
+
+## ResNet 50 Baseline
+Notebook covers following 
+- Loading data from directory using flow_from_dir function
+- Data augmentation using ImageDatagenerator
+- Validation split from same dataset 
+- Train ResNet50 as Backbone 
+- Evaluating the Model
+
+## Aptos challenge 
+Notebook covers following
+- Loading data with csv file and directory
+- Data Visualization 
+- ResNet 50 , Xception Net and NASNet as backbone for Fine Tuning
+- Data loader with Augmentation
+- Confusion metrics for evaluation
+
