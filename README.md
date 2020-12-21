@@ -60,3 +60,11 @@ Notebook covers following
 - visualization 
 - evalaution 
 
+## Hyper-parameter tuning
+Notebook covers following
+- Uses cancer stage classification dataset
+- Training DNN model
+- Hyper-parametert tuning
+- visualization 
+- Evaluation
+
